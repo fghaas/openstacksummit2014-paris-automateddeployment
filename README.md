@@ -1,6 +1,6 @@
 # Automated Deployment of a Highly Available OpenStack Cloud
 
-**PLEASE NOTE: This repository is being superceded by
+**PLEASE NOTE: This repository is being superseded by
 https://github.com/SUSE-Cloud/suse-cloud-vagrant and is only
 kept for reference.**
 
