@@ -25,6 +25,11 @@ Note: some things in technical preview, e.g. Ceph
 ### HA support added
 
 
+# SUSE Cloud 4
+### Icehouse based (Aug 14)
+### Ceph support added
+
+
 ### Based on
 # SLES 11 SP3
 
