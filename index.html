@@ -186,7 +186,13 @@ Reveal.initialize({
 
     theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
     transition: Reveal.getQueryHash().transition || 'fade', // default/cube/page/concave/zoom/linear/fade/none
-    
+
+    multiplex: {
+        secret: null,
+        id: '1e66ed85632ce90e', // Obtained from socket.io server
+        url: 'revealjs.jit.su', // Location of socket.io server
+    },
+
     // Optional libraries used to extend on reveal.js
     dependencies: [
 	{ src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
@@ -194,7 +200,10 @@ Reveal.initialize({
 	{ src: 'reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
 	{ src: 'reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
 	{ src: 'reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
-	{ src: 'reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+	{ src: 'reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
+	{ src: '//cdnjs.cloudflare.com/ajax/libs/socket.io/0.9.10/socket.io.min.js', async: true },
+	{ src: 'reveal.js/plugin/multiplex/master.js', async: true },
+	{ src: 'reveal.js/plugin/multiplex/client.js', async: true },
     ]
 });
     </script>
