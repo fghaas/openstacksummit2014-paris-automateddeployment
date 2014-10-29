@@ -4,10 +4,13 @@
 ## Why do we want OpenStack HA?
 
 
-## What options do vendors offer?
-
-
 ## How does SUSE Cloud do it?
+
+Note: This tutorial is specifically about SUSE Cloud. However, you may
+also be interested in a more general, vendor-agnostic overview of HA
+in OpenStack Juno and beyond. For that there is an additional talk in
+the main conference, **OpenStack High Availability: Are We There
+Yet?**, on Wednesday, 1530, in room 252 AB. http://sched.co/1qeP6TX
 
 
 ### but before that...
@@ -32,7 +35,6 @@
 
 ### ... and Founder at hastexo
 
-Note: professional services company
-with expertise in HA, cloud, storage, virtualization.
-They provide training, remote and on-site consulting,
-and emergency troubleshooting
+Note: Professional services company with expertise in HA, cloud,
+storage, virtualization.  They provide training, remote and on-site
+consulting, and emergency troubleshooting.
