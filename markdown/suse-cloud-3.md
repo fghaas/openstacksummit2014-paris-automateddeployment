@@ -34,14 +34,6 @@ Note: some things in technical preview, e.g. Ceph
 # SLES 11 SP3
 
 
-![SUSE Cloud High Level Overview](images/suse-cloud-blurry.svg)
-Note: right now, you may have a bit of a murky view of SUSE Cloud...
-
-
-![SUSE Cloud High Level Overview](images/suse-cloud-highlevel.svg)
-Note: ... so let's make that a little clearer.
-
-
 ### SUSE Cloud
 # Node roles
 Note: In SUSE Cloud, deployment and management of services is centered
