@@ -6,3 +6,7 @@
 	path = qrcodejs
 	url = git://github.com/davidshimjs/qrcodejs
 	branch = master
+[submodule "suse-cloud-vagrant"]
+	path = suse-cloud-vagrant
+	url = git://github.com/SUSE-Cloud/suse-cloud-vagrant
+	branch = master
