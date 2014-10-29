@@ -85,8 +85,7 @@ Note: Switch back and forth to and from Crowbar browser tab
 
 ## neutron-l3-agent
 # OCF RA
-
-http://goo.gl/JxMSQW
+`neutron-ha-tool.py`
 
 Note:
 - `monitor` action checks for dead l3-agents
@@ -94,9 +93,13 @@ Note:
   - replicates DHCP agents
   - migrates routers onto healthy agents
 
+OpenStack Juno adds *experimental* support for DVR and HA L3
+agents. It is expected that `neutron-ha-tool.py` will no longer be
+necessary once this feature has stabilized (targeted for Kilo).
+
 
 ## Networking Plugin
-**Plugin:** `openvswitch`
+ML2 with OVS/GRE
 
 
 # Nova
