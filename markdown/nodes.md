@@ -99,7 +99,7 @@ necessary once this feature has stabilized (targeted for Kilo).
 
 
 ## Networking Plugin
-**Plugin:** `openvswitch`
+ML2 with OVS/GRE
 
 
 # Nova
