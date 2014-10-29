@@ -11,6 +11,11 @@ the first place?
 (This is normally also their choice of deployment facility for an HA
 manager, as everything else would be braindead.)
 
+It is important to note that the deployment facility is a key
+differentiator between vendors' OpenStack products. As a general rule,
+you should **always** go with what your vendor supports, rather than
+roll your own or, even worse, deploy OpenStack without automation.
+
 
 ## HA Management
 Note: Which high availability manager(s) does the vendor support for

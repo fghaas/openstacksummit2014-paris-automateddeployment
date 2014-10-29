@@ -25,16 +25,13 @@ Note: some things in technical preview, e.g. Ceph
 ### HA support added
 
 
+# SUSE Cloud 4
+### Icehouse based (Aug 14)
+### Ceph support added
+
+
 ### Based on
 # SLES 11 SP3
-
-
-![SUSE Cloud High Level Overview](images/suse-cloud-blurry.svg)
-Note: right now, you may have a bit of a murky view of SUSE Cloud...
-
-
-![SUSE Cloud High Level Overview](images/suse-cloud-highlevel.svg)
-Note: ... so let's make that a little clearer.
 
 
 ### SUSE Cloud
@@ -45,4 +42,7 @@ unique to SUSE Cloud, it is a rather common method of abstracting node
 functionality.
 
 
-![SUSE Cloud High Level Overview](images/suse-cloud-node-roles.png)
+![SUSE Cloud 4 reference architecture](images/cloud_node_structure.png)
+
+[SUSE Cloud 4 reference architecture](https://www.suse.com/documentation/suse-cloud4/book_cloud_deploy/data/cha_depl_arch.html)
+Note: original image at https://www.suse.com/documentation/suse-cloud4/book_cloud_deploy/graphics/cloud_node_structure.png.
