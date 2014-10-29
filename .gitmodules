@@ -1,12 +1,12 @@
 [submodule "reveal.js"]
 	path = reveal.js
-	url = git://github.com/hakimel/reveal.js
+	url = https://github.com/hakimel/reveal.js
 	branch = master
 [submodule "qrcodejs"]
 	path = qrcodejs
-	url = git://github.com/davidshimjs/qrcodejs
+	url = https://github.com/davidshimjs/qrcodejs
 	branch = master
 [submodule "suse-cloud-vagrant"]
 	path = suse-cloud-vagrant
-	url = git://github.com/SUSE-Cloud/suse-cloud-vagrant
+	url = https://github.com/SUSE-Cloud/suse-cloud-vagrant
 	branch = master
