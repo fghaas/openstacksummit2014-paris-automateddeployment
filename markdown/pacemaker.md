@@ -31,6 +31,10 @@ Pre-configured on `/dev/sdc`
 **Setup non-web GUI (hb_gui):**  true
 
 
+Initial Pacemaker deployment
+<iframe src="https://asciinema.org/api/asciicasts/13367?size=medium&amp;speed=2" id="asciicast-iframe-13367" name="asciicast-iframe-13367" scrolling="yes"></iframe>
+
+
 ### What's special about how
 # SUSE Cloud
 ### uses Pacemaker with Crowbar?

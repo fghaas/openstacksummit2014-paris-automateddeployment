@@ -14,6 +14,10 @@ Note: Switch back and forth to and from Crowbar browser tab
 **Size to Allocate for DRBD Device:** 1
 
 
+PostgreSQL/DRBD deployment
+<iframe src="https://asciinema.org/api/asciicasts/13361?size=medium&amp;speed=2" id="asciicast-iframe-13361" name="asciicast-iframe-13361" scrolling="yes"></iframe>
+
+
 # RabbitMQ
 ### barclamp
 Note: Switch back and forth to and from Crowbar browser tab
@@ -30,6 +34,10 @@ Note: Switch back and forth to and from Crowbar browser tab
 **Size to Allocate for DRBD Device:** 1
 
 
+RabbitMQ/DRBD deployment
+<iframe src="https://asciinema.org/api/asciicasts/13368?size=medium&amp;speed=2" id="asciicast-iframe-13368" name="asciicast-iframe-13368" scrolling="yes"></iframe>
+
+
 # Keystone
 ### barclamp
 Note: Switch back and forth to and from Crowbar browser tab
@@ -40,6 +48,10 @@ Note: Switch back and forth to and from Crowbar browser tab
 ### under Pacemaker management
 
 
+Keystone deployment
+<iframe src="https://asciinema.org/api/asciicasts/13390?size=medium&amp;speed=2" id="asciicast-iframe-13390" name="asciicast-iframe-13390" scrolling="yes"></iframe>
+
+
 # Glance
 ### barclamp
 Note: Switch back and forth to and from Crowbar browser tab
@@ -48,6 +60,10 @@ Note: Switch back and forth to and from Crowbar browser tab
 ### Installs
 # Glance
 ### under Pacemaker management
+
+
+Glance deployment
+<iframe src="https://asciinema.org/api/asciicasts/13362?size=medium&amp;speed=2" id="asciicast-iframe-13362" name="asciicast-iframe-13362" scrolling="yes"></iframe>
 
 
 # Cinder
@@ -71,6 +87,10 @@ Note: Switch back and forth to and from Crowbar browser tab
 # SAN storage
 ### and
 # Ceph
+
+
+Cinder deployment
+<iframe src="https://asciinema.org/api/asciicasts/13360?size=medium&amp;speed=2" id="asciicast-iframe-13360" name="asciicast-iframe-13360" scrolling="yes"></iframe>
 
 
 # Neutron
@@ -102,6 +122,10 @@ necessary once this feature has stabilized (targeted for Kilo).
 ML2 with OVS/GRE
 
 
+Neutron deployment
+<iframe src="https://asciinema.org/api/asciicasts/13365?size=medium&amp;speed=2" id="asciicast-iframe-13365" name="asciicast-iframe-13365" scrolling="yes"></iframe>
+
+
 # Nova
 ### barclamp
 Note: Switch back and forth to and from Crowbar browser tab
@@ -112,6 +136,10 @@ Note: Switch back and forth to and from Crowbar browser tab
 ### under Pacemaker management
 
 
+Neutron deployment
+<iframe src="https://asciinema.org/api/asciicasts/13366?size=medium&amp;speed=2" id="asciicast-iframe-13366" name="asciicast-iframe-13366" scrolling="yes"></iframe>
+
+
 # Horizon
 ### barclamp
 Note: Switch back and forth to and from Crowbar browser tab
@@ -119,3 +147,7 @@ Note: Switch back and forth to and from Crowbar browser tab
 ### Installs
 # Horizon
 ### under Pacemaker management
+
+
+Horizon deployment
+<iframe src="https://asciinema.org/api/asciicasts/13364?size=medium&amp;speed=2" id="asciicast-iframe-13364" name="asciicast-iframe-13364" scrolling="yes"></iframe>

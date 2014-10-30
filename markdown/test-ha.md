@@ -26,13 +26,17 @@ OpenStack Dashboard (admin)
 
 `pkill openstack-keystone`
 
-`pkill openstack-glance`
+`pkill openstack-nova-api`
 
 
 ### Watch
 # services
 ### recover automatically
 `crm_mon`
+
+
+Service recovery
+<iframe src="https://asciinema.org/api/asciicasts/13356?size=medium&amp;speed=2&amp;loop=yes" id="asciicast-iframe-13356" name="asciicast-iframe-13356" scrolling="yes"></iframe>
 
 
 ### Doing
@@ -49,3 +53,7 @@ OpenStack Dashboard (admin)
 # services
 ### fail over automatically
 `crm_mon`
+
+
+Node recovery
+<iframe src="https://asciinema.org/api/asciicasts/13355?size=medium&amp;speed=2&amp;loop=yes" id="asciicast-iframe-13356" name="asciicast-iframe-13356" scrolling="yes"></iframe>
