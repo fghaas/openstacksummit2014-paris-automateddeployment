@@ -1,10 +1,8 @@
 # Crowbar
 
 
+<!-- .slide: data-background="images/dell-logo.svg" data-background-size="contain" -->
 ### Software Deployment and Automation Framework
-
-
-![Dell logo](images/dell-logo.svg)
 
 
 ### Individual application units
