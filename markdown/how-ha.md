@@ -28,9 +28,7 @@ Note: What does the vendor support to ensure state sharing, or data
 replication, between the backend stores of stateful services?
 
 
-![SUSE logo](images/suse-logo.svg)
-
-
+<!-- .slide: data-background="images/geeko.svg" data-background-size="contain" -->
 ### Crowbar deployment
 ### Pacemaker/HAProxy
 ### Shared Storage/DRBD
