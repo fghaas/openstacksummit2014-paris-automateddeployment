@@ -16,23 +16,22 @@ Yet?**, on Wednesday, 1530, in room 252 AB. http://sched.co/1qeP6TX
 ### but before that...
 
 
+<!-- .slide: data-background="images/adam.jpg" data-background-size="cover" -->
 # Adam Spiers
 
 
 ### Professional Cellist
-
 ### Lapsed Triathlete
-
 ### ... and Engineer at SUSE
+Note: Image Credit: The London Tango Orchestra
 
 
+<!-- .slide: data-background="images/florian.jpg" data-background-size="cover" -->
 # Florian Haas
 
 
 ### Professional Traveler
-
-### Amateur Foodie, Chef & Parent
-
+### Amateur Foodie, Photographer & Parent
 ### ... and Founder at hastexo
 
 Note: Professional services company with expertise in HA, cloud,
