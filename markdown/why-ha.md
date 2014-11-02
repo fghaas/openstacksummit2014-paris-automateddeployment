@@ -18,13 +18,15 @@
 # not quite.
 
 
-![OpenStack Architecture (picture by Ken Pepple)](images/openstack-arch.svg)
+<!-- .slide: data-background="images/openstack-arch.svg" data-background-size="contain" -->
+
 Note: This is a *simplified* overview of the OpenStack
 architecture. Various components like Heat, Ceilometer, Trove are
-omitted for clarity.
+omitted for clarity. Image by Ken Pepple.
 
 
-![OpenStack Architecture with highlights](images/openstack-arch-mysql.svg)
+<!-- .slide: data-background="images/openstack-arch-mysql.svg" data-background-size="contain" -->
+
 Note: Even in this simplified architecture, the **majority** of
 services rely on shared infrastructure. In particular:
 
