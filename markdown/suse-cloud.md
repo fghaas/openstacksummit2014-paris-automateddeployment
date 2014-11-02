@@ -42,7 +42,9 @@ unique to SUSE Cloud, it is a rather common method of abstracting node
 functionality.
 
 
-![SUSE Cloud 4 reference architecture](images/cloud_node_structure.png)
+<!-- .slide: data-background="images/cloud_node_structure.png" data-background-size="contain" -->
 
-[SUSE Cloud 4 reference architecture](https://www.suse.com/documentation/suse-cloud4/book_cloud_deploy/data/cha_depl_arch.html)
-Note: original image at https://www.suse.com/documentation/suse-cloud4/book_cloud_deploy/graphics/cloud_node_structure.png.
+Note: From
+[SUSE Cloud 4 reference architecture](https://www.suse.com/documentation/suse-cloud4/book_cloud_deploy/data/cha_depl_arch.html),
+original image at
+https://www.suse.com/documentation/suse-cloud4/book_cloud_deploy/graphics/cloud_node_structure.png.

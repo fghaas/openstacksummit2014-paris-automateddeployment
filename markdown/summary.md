@@ -9,10 +9,13 @@ Note:
 
 ## Vendors' approaches to OpenStack HA
 Note:
-- Canonical: Juju/Pacemaker/Ceph
-- Cisco: Puppet/HAproxy-keepalived/
-- Piston: Moxie
+- Canonical: Juju/Pacemaker/Galera/Ceph
+- Mirantis: Fuel/Pacemaker/Galera
 - Red Hat: Puppet/Pacemaker/Galera
+
+More on this in Florian's talk on Wednesday. **OpenStack High
+Availability: Are We There Yet?**, 1530, room 252
+AB. http://sched.co/1qeP6TX
 
 
 ## SUSE Cloud HA
